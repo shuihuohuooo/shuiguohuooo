@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nice60
+  - board: lake65
     shield: 
