@@ -67,7 +67,7 @@ RC(5,0) RC(5,1) RC(5,2)                 RC(5,5)                         RC(5,9) 
 			, <&gpio0 13 GPIO_ACTIVE_HIGH> //11
 			, <&gpio0 22 GPIO_ACTIVE_HIGH> //12
 			, <&gpio0 24 GPIO_ACTIVE_HIGH> //13
-			, <&gpio1  0 GPIO_ACTIVE_HIGH> //14
+			, <&gpio1  6 GPIO_ACTIVE_HIGH> //14
 			;
 	};
 	leds {
