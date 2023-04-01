@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: fadog65
-    shield: 
+  - board: nrfmicro_13_52833
+    shield: fa65
